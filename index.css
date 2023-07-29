@@ -149,7 +149,7 @@ article:nth-child(5){
     grid-area: five;
 }
 
-.idk{
+footer{
     margin: 0 auto;
     width: 90%;
     max-width: 450px;
