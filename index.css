@@ -52,6 +52,11 @@ main{
 .title{
     position: relative;
     z-index: 1;
+    width: 94%;
+}
+
+h2{
+    font-size: 1.25rem;
 }
 
 .flex{
@@ -173,5 +178,9 @@ a:hover{
 
     .bg{
         right: 4.5em;
+    }
+
+    .title{
+        width: 100%;
     }
 }
