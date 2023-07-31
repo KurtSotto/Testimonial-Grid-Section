@@ -42,7 +42,7 @@ Users should be able to:
 -What I learned in this challenge is using the display grid properly and confidently.
 
 ### Useful resources
-([https://www.example.com](https://www.youtube.com/watch?v=rg7Fvvl3taU)) - This is an amazing article which helped me finally understand display:grid. I'd recommend it to anyone still learning this concept.
+(https://www.youtube.com/watch?v=rg7Fvvl3taU) - This is an amazing article which helped me finally understand display:grid. I'd recommend it to anyone still learning this concept.
 
 ## Author
 - Frontend Mentor - [@KurtSotto](https://www.frontendmentor.io/profile/KurtSotto)
